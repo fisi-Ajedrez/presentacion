@@ -1,0 +1,7 @@
+.Presentacion {font-size: 30px;font-family: "Mikadan"; color: darkgray}
+.Titulo {text-decoration: underline}
+.Indice {font-size: 23px; font-family: "Cooper Black"; color: darkgray}
+.Lista {font-size: 28px; font-family: "Russo One"}
+a:hover {color:red; background-color:yellow; text-decoration:underline }
+.cuadrado {border: 10px double #f00; padding: 0.3rem;display: flex; flex-direction: column; background-color: black; margin:13% 13%; width: 75%;height: 75%}
+.cuadrado p {text-align: center}
